@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Secure Banking</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_balance">Balance</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_cards">Cards</string>
+    <string name="nav_account">Account</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Secure Banking</string>
+    <string name="home_welcome">Welcome back</string>
+    <string name="home_quick_balance">Quick Balance</string>
+    <string name="home_features">Features</string>
+    <string name="home_offline_features">Offline Features Available</string>
+    <string name="home_offline_description">• View cached account balance\n• Browse transaction history\n• Access card details (with biometric)\n• Share account information</string>
+
+    <!-- Account Balance -->
+    <string name="balance_title">Account Balance</string>
+    <string name="balance_current">Current Balance</string>
+    <string name="balance_available">Available Balance</string>
+    <string name="balance_pending">Pending Transactions</string>
+    <string name="balance_last_updated">Updated: %1$s</string>
+    <string name="balance_account_summary">Account Summary</string>
+    <string name="balance_quick_actions">Quick Actions</string>
+
+    <!-- Transaction History -->
+    <string name="transactions_title">Transaction History</string>
+    <string name="transactions_recent">Recent Transactions</string>
+    <string name="transactions_this_month">This Month</string>
+    <string name="transactions_spent">Spent</string>
+    <string name="transactions_received">Received</string>
+    <string name="transactions_count">Transactions</string>
+    <string name="transactions_load_more">Load More Transactions</string>
+    <string name="transactions_no_data">No transactions found</string>
+
+    <!-- Card Details -->
+    <string name="cards_title">My Cards</string>
+    <string name="cards_add_new">Add New Card</string>
+    <string name="cards_card_info">Card Information</string>
+    <string name="cards_card_type">Card Type</string>
+    <string name="cards_status">Status</string>
+    <string name="cards_daily_limit">Daily Limit</string>
+    <string name="cards_monthly_limit">Monthly Limit</string>
+    <string name="cards_enable">Enable</string>
+    <string name="cards_disable">Disable</string>
+    <string name="cards_settings">Settings</string>
+    <string name="cards_expires">EXPIRES</string>
+    <string name="cards_cardholder">CARDHOLDER</string>
+
+    <!-- Account Details -->
+    <string name="account_title">Account Details</string>
+    <string name="account_info">Account Information</string>
+    <string name="account_number">Account Number</string>
+    <string name="account_routing">Routing Number</string>
+    <string name="account_swift">SWIFT Code</string>
+    <string name="account_iban">IBAN</string>
+    <string name="account_type">Account Type</string>
+    <string name="account_holder">Account Holder</string>
+    <string name="account_bank">Bank Name</string>
+    <string name="account_branch">Branch</string>
+    <string name="account_branch_info">Branch Information</string>
+    <string name="account_quick_share">Quick Share</string>
+    <string name="account_share_full">Full Details</string>
+    <string name="account_share_routing">Routing Only</string>
+    <string name="account_share_description">Share your banking details securely with trusted contacts</string>
+
+    <!-- Security -->
+    <string name="security_title">Security</string>
+    <string name="security_biometric_title">Secure Access Required</string>
+    <string name="security_biometric_subtitle">Use your biometric credential to view sensitive information</string>
+    <string name="security_biometric_account_subtitle">Authenticate to view your complete account details and sharing options</string>
+    <string name="security_authenticate">Authenticate</string>
+    <string name="security_authenticating">Authenticating…</string>
+    <string name="security_cancel">Cancel</string>
+    <string name="security_try_again">Try Again</string>
+    <string name="security_access_granted">Secure Access Granted</string>
+    <string name="security_access_verified">Secure Access Verified</string>
+    <string name="security_protection_message">Your card details are protected with biometric authentication</string>
+    <string name="security_encryption_message">Your account details are protected and encrypted</string>
+    <string name="security_privacy_title">Security &amp; Privacy</string>
+    <string name="security_privacy_info">• Your account details are encrypted and protected\n• Biometric authentication required for access\n• Share only with trusted recipients\n• Never share your full account details publicly</string>
+
+    <!-- Connection Status -->
+    <string name="connection_online">Online - Data is current</string>
+    <string name="connection_offline">Offline - Data is old </string>
+</resources>
